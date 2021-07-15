@@ -29,3 +29,6 @@ A scientific device aimed to provide electrochemical measurements with 3-electro
 
 ## [Desktop App for Keithley 2400/2401 source meter](https://github.com/kudryashovda/Keithley_2400x_IV)
 Written with Delphi 2007. Supported protocols: COM, GPIB (with external lib - GPIB-32.DLL)
+
+## [An equipment for photoluminescence decay measurements (STM32 + Delphi)](https://github.com/kudryashovda/PL_decay_measurements)
+Developed for a study of silicon wafer passivation. Uses in solar cells technology.

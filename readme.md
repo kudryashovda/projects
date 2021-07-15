@@ -27,5 +27,5 @@ A small c++ GUI app that helps to interpolate scientific data. wxWidgets library
 ## [Intelligent potentiostat (IPot)](https://github.com/kudryashovda/ipot)
 A scientific device aimed to provide electrochemical measurements with 3-electrode cell. Written on Delphi application provides intuitive device control.
 
-## [Desktop App for manage Keithley 2400/2401 source meter](https://github.com/kudryashovda/Keithley_2400x_IV)
+## [Desktop App for Keithley 2400/2401 source meter](https://github.com/kudryashovda/Keithley_2400x_IV)
 Written with Delphi 2007. Supported protocols: COM, GPIB (with external lib - GPIB-32.DLL)
